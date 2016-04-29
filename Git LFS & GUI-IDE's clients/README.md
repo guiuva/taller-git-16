@@ -1,7 +1,9 @@
 # git-large-file-storage-example
 A Git Large File Storage example for a Git workshop.
 
-I made this workshop with my friend [@ismtabo](https://github.com/ismtabo) and [CS Group](https://www.gui.uva.es/) in University of Valladolid, he introduced the Git fundamentals and different Git workflows and I introduced [Git for Large Files](https://git-lfs.github.com/) and Git in GUI clients like [GitKraken](https://www.gitkraken.com/) and in IDE's like [Netbeans](https://netbeans.org/kb/docs/ide/git.html).
+I made this workshop with my friend [@ismtabo](https://github.com/ismtabo) and
+[CS Group](https://www.gui.uva.es/) in University of Valladolid, he introduced
+the Git fundamentals and different Git workflows and I introduced [Git for Large Files](https://git-lfs.github.com/) and Git in GUI clients like [GitKraken](https://www.gitkraken.com/) and in IDE's like [Netbeans](https://netbeans.org/kb/docs/ide/git.html).
 
 ## Slides
 
